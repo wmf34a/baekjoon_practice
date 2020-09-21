@@ -1,5 +1,5 @@
 sugar_kg = int(input())
-total_cnt = 0;
+total_cnt = 0
 
 while True:
     if sugar_kg % 5 == 0:
