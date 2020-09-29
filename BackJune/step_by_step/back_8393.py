@@ -6,6 +6,3 @@ N = int(input())
 
 result = (N*(N+1))//2
 print(result)
-#for _ in range(N):
-#    A,B = map(int, input().split())
-#    print(A + B)
