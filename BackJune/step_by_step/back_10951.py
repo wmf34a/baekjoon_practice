@@ -1,4 +1,4 @@
-#while A+B-4
+# while A+B-4
 import sys
 input = sys.stdin.readline
 while True:
